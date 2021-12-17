@@ -1,0 +1,13 @@
+{
+  "name": "com.guanjinbiao.sqlitehelper",
+  "displayName": "MySql Helper",
+  "description": "MySql Helper",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "license": "MIT",
+  "author": {
+    "name": "Guan Jinbiao"
+  },
+  "dependencies": {
+  }
+}
